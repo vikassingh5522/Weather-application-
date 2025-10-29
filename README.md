@@ -1,5 +1,6 @@
 
 
+<img width="1691" height="750" alt="image" src="https://github.com/user-attachments/assets/120878d6-5eab-45aa-9a18-42bad4f7f580" />
 
 ````markdown
 # 🌤️ Weather Now
